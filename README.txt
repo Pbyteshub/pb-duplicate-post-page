@@ -16,10 +16,6 @@ Duplicate Posts or Pages with the use of one click event
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload `pb-duplicate-post-page.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
